@@ -2,3 +2,26 @@ h1 {
     color: green;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
+.nav {
+
+    list-style: none;
+
+    padding-left: 0;
+
+    width: 50%;
+
+    margin: auto;
+
+    text-align: center;
+}
+
+.nav>li {
+    border-style: ridge;
+    border-radius: 10px;
+
+    display: inline-block;
+
+    background-color: red;
+
+   
+}
